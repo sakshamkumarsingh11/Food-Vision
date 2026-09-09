@@ -1,6 +1,5 @@
 ---
 title: Food Vision
-emoji: 😻
 colorFrom: indigo
 colorTo: gray
 sdk: gradio
@@ -10,7 +9,7 @@ app_file: app.py
 pinned: false
 ---
 
-# 🍔👁 FoodVision Big
+# FoodVision Big
 
 An image classifier that identifies **101 different types of food** from a photo, built with a fine-tuned **EfficientNet-B2** model in PyTorch and served with **Gradio**.
 
