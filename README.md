@@ -37,6 +37,8 @@ Upload a photo of a dish and the model returns its top 5 predicted classes with 
 pip install -r requirements.txt
 python app.py
 ```
+## Live link - https://huggingface.co/spaces/Sakshamks/Food-Vision
+
 
 Then open the local URL Gradio prints (usually `http://127.0.0.1:7860`).
 
